@@ -15,5 +15,5 @@ python Principal.py
 # Resultado
 
 <span align="center">
-    <img src="https://user-images.githubusercontent.com/85804895/134086287-92aab41c-6083-43eb-bccc-2a5440b5e068.png">
+    <img src="https://user-images.githubusercontent.com/85804895/134086287-92aab41c-6083-43eb-bccc-2a5440b5e068.png", width=400>
 </span>
